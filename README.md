@@ -10,7 +10,7 @@ This project builds a **neural network** using TensorFlow to classify handwritte
 - **Skills Demonstrated**: Data preprocessing, neural network design, model evaluation, and visualization.
 
 ## Requirements
-- Python 3.x
+- Python 3.x 
 - TensorFlow 2.x
 - NumPy
 - Matplotlib
@@ -36,3 +36,6 @@ Run all cells to train the model and visualize the results.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Updates 
+- just updating the notebook
